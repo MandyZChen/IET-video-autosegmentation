@@ -33,3 +33,6 @@ STEP 4, Apply temporal smoothing to the masks and regenerate the blurred video.
 ## About the author
 The current repo is maintained by:
 Zhimin Chen (https://mandyzchen.github.io/)
+
+Contributors:
+Yitian Ma (yitianma@berkeley.edu )
